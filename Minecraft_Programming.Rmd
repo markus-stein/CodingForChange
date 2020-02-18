@@ -6,7 +6,7 @@ output: pdf_document
 This are some notes about gamming and coding on Minecraft
 
 ```{r setup, include=FALSE}
-library(devtools)
+library(devtools, usethis)
 devtools::install_github('ropenscilabs/miner')
 ```
 
