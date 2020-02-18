@@ -32,5 +32,9 @@ https://lucidmanager.org/r-games/
 
 ## R packages 
 
-### `miner` - 
-https://github.com/ropenscilabs/miner/blob/master/vignettes/miner.Rmd
+### `miner` - R Programming with Minecraft 
+https://ropenscilabs.github.io/miner_book/index.html
+
+a. BuildTools - https://www.spigotmc.org/wiki/buildtools/
+b. Spigot Installation - https://www.spigotmc.org/wiki/spigot-installation/
+c. 
