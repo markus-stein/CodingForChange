@@ -30,8 +30,9 @@ Some links we found with several games:
 
 ## R packages 
 
-* [`miner` - R Programming with Minecraft](https://ropenscilabs.github.io/miner_book/index.html)
+* [`miner` - R Programming with Minecraft](https://ropenscilabs.github.io/miner_book/index.html)  
 
+Setting up your own server:
 a. BuildTools - https://www.spigotmc.org/wiki/buildtools/  
 b. Spigot Installation - https://www.spigotmc.org/wiki/spigot-installation/  
 c. Raspberry Juice plugin - https://dev.bukkit.org/projects/raspberryjuice
