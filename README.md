@@ -36,3 +36,16 @@ Setting up your own server:
 a. BuildTools - https://www.spigotmc.org/wiki/buildtools/  
 b. Spigot Installation - https://www.spigotmc.org/wiki/spigot-installation/  
 c. Raspberry Juice plugin - https://dev.bukkit.org/projects/raspberryjuice
+
+## Blockdown Simulator
+### Covid-19 is spreading to Minecraft
+This is a map to simulate a highly infectious Zombie pandemic spreading among villagers. You can observe, experience social distancing or run a hospital during this pandemic.
+
+* https://www.blockdown.net/
+
+* https://www.minecraft.net/en-us/article/let-s-play--blockdown-simulator
+
+
+How to install maps?  
+
+* https://minecraft.gamepedia.com/Tutorials/Map_downloads
