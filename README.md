@@ -3,7 +3,7 @@ This is a place to get kids involved in programming in `R` and other languages,
 and having fun.
 
 * Learning, science, STEM, ...: [CodingForChange/learning](learning)
-  + [‘Oobleck’ for home learning](https://htmlpreview.github.io/?)
+  + [‘Oobleck’ for home learning](https://htmlpreview.github.io/?https://github.com/markus-stein/CodingForChange/blob/master/learning/remote_learning_oobleck-3.html)
 
 
 * Coding and games: [CodingForChange/games](games)
