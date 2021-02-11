@@ -5,13 +5,13 @@ author: "Markus Stein"
 output: pdf_document
 ---
 
-This are some notes about coding and playing Minecraft.
-
-# Is it possible to play *minecraft* with `R`?
+These are some notes about coding and playing Minecraft.
 
 ## Books
 
 * [Learn to Program with Minecraft: Transform Your World with the Power of Python](https://nostarch.com/programwithminecraft)
+
+# Is it possible to play *minecraft* with `R`?
 
 ## R packages 
 
