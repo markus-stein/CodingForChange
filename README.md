@@ -7,7 +7,7 @@ and having fun.
 
 
 * Coding and games: [CodingForChange/games](games)
-  + [`Minecraft` and `R`](games/Minecraft_Programming.Rmd)
+  + [`Minecraft` and `R`](games/Minecraft_Programming.pdf)
 
 
 
