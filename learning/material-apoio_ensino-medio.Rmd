@@ -1,0 +1,40 @@
+---
+title: "Material de Apoio ao Ensino Médio"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# Como complementar os estudos no ensino médio no Brasil?
+
+* Pandemia e educação no Brasil
+* Ensino remoto
+* Base Nacional Comum Curricular - http://basenacionalcomum.mec.gov.br/
+
+
+## Iniciativas pelo Brasil
+
+* Secretaria da Educação da Bahia
+    + Plataforma Anísio Teixeira - http://pat.educacao.ba.gov.br/  
+    + possui rotinas de estudos, sugestões de conteúdos e vídeos, .... excelente material
+
+* Currículo Paulista
+    + https://efape.educacao.sp.gov.br/curriculopaulista/ensino-medio/materiais-de-apoio-2/
+
+
+## No RS
+
+* Novo Ensino Médio - http://portal.educacao.rs.gov.br/novo-ensino-medio
+    + página com documentos e informações para professores...
+
+* Conseguimos produzir (Secretarias, escolas professores, estudantes e pais) em nosso Estado um material online, gratuito e de qualidade?
+    + como a Universidade pode auxiliar nesse processo?
+    
+* Do site da Secretaria de Educação - https://educacao.rs.gov.br/  
+    + Plataforma Digital de Leitura - https://www.arvore.com.br/
+    + Preparação para ENEM e vestibulares - https://www.resolvesim.com.br/
+
+
+
