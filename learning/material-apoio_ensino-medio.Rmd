@@ -1,5 +1,6 @@
 ---
-title: "Material de Apoio ao Ensino Médio"
+title: "Material de Apoio ao Ensino Médio  no Brasil"
+subtitle: "(principalmente na rede pública)"
 output: pdf_document
 ---
 
@@ -7,7 +8,7 @@ output: pdf_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-# Como complementar os estudos no ensino médio no Brasil?
+# Como complementar os estudos no ensino médio?
 
 * Pandemia e educação no Brasil
 * Ensino remoto
@@ -17,24 +18,34 @@ knitr::opts_chunk$set(echo = TRUE)
 ## Iniciativas pelo Brasil
 
 * Secretaria da Educação da Bahia
-    + Plataforma Anísio Teixeira - http://pat.educacao.ba.gov.br/  
-    + possui rotinas de estudos, sugestões de conteúdos e vídeos, .... excelente material
+    + Plataforma Anísio Teixeira - http://pat.educacao.ba.gov.br/
+    + possui rotinas de estudos, sugestões de conteúdos e vídeos, .... excelente material  
+
 
 * Currículo Paulista
-    + https://efape.educacao.sp.gov.br/curriculopaulista/ensino-medio/materiais-de-apoio-2/
+    + materiais de anos anteriores e adaptados ao Novo Ensino Médio - https://efape.educacao.sp.gov.br/curriculopaulista/ensino-medio/materiais-de-apoio-2/
 
 
 ## No RS
 
 * Novo Ensino Médio - http://portal.educacao.rs.gov.br/novo-ensino-medio
-    + página com documentos e informações para professores...
+    + página com legislação, documentos e informações (para professores, educadores, ...)
 
-* Conseguimos produzir (Secretarias, escolas professores, estudantes e pais) em nosso Estado um material online, gratuito e de qualidade?
-    + como a Universidade pode auxiliar nesse processo?
-    
+### Conseguimos produzir (Secretarias, escolas professores, estudantes e pais) em nosso Estado um material online, gratuito e de qualidade?
+
 * Do site da Secretaria de Educação - https://educacao.rs.gov.br/  
     + Plataforma Digital de Leitura - https://www.arvore.com.br/
-    + Preparação para ENEM e vestibulares - https://www.resolvesim.com.br/
-
-
-
+    + Preparação para ENEM e vestibulares - https://www.resolvesim.com.br/   
+    
+    
+* Do site do IFRS - Instituto Federal Rio Grande do Sul
+    + Cursos online, gratuitos e abertos - https://moodle.ifrs.edu.br/course/index.php?categoryid=38   
+    
+    
+* Como a Universidade também pode auxiliar nesse processo?
+    
+* Precisamos:
+    + Rotina de estudos: planos para professores e alunos, tarefas, ... ;
+    + Bibliografia: livros didáticos e de leitura, apostilas... online e impresso;
+    + Material de apoio: textos, áudios, vídeos, ... ;
+    + Discussões e dúvidas: fóruns, chats, apresentações, ... .
