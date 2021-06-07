@@ -29,9 +29,10 @@ knitr::opts_chunk$set(echo = TRUE)
 ## No RS
 
 * Novo Ensino Médio - http://portal.educacao.rs.gov.br/novo-ensino-medio
-    + página com legislação, documentos e informações (para professores, educadores, ...)
+    + página com legislação, documentos e informações - para professores, educadores, gestores ...;
+    + E para estudantes? Existe alguma plataforma com material de apoio?
 
-### Conseguimos produzir (Secretarias, escolas professores, estudantes e pais) em nosso Estado um material online, gratuito e de qualidade?
+### Como produzir em nosso Estado um material online, gratuito e de qualidade? *(Com o auxílio de Secretarias, escolas e professores, estudantes e pais, ...)*
 
 * Do site da Secretaria de Educação - https://educacao.rs.gov.br/  
     + Plataforma Digital de Leitura - https://www.arvore.com.br/
@@ -46,6 +47,7 @@ knitr::opts_chunk$set(echo = TRUE)
     
 * Precisamos:
     + Rotina de estudos: planos para professores e alunos, tarefas, ... ;
-    + Bibliografia: livros didáticos e de leitura, apostilas... online e impresso;
-    + Material de apoio: textos, áudios, vídeos, ... ;
-    + Discussões e dúvidas: fóruns, chats, apresentações, ... .
+    + Bibliografia: livros didáticos e de leitura, apostilas, ... (online e impresso);
+    + Material de apoio: textos, áudios, vídeos/filmes, ... ;
+    + Discussões e dúvidas: fóruns, chats, apresentações, ... *(monitorias?)*
+    + *(Eventos virtuais?, congressos?, ...)*
