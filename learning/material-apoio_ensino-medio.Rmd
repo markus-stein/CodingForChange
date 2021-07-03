@@ -46,7 +46,7 @@ knitr::opts_chunk$set(echo = TRUE)
 * Como a Universidade também pode auxiliar nesse processo?
     
 * Precisamos:
-    + Rotina de estudos: planos para professores e alunos, tarefas, ... ;
+    + Rotina de estudos: planos diários para professores e alunos, tarefas, ... ;
     + Bibliografia: livros didáticos e de leitura, apostilas, ... (online e impresso);
     + Material de apoio: textos, áudios, vídeos/filmes, ... ;
     + Discussões e dúvidas: fóruns, chats, apresentações, ... *(monitorias?)*
